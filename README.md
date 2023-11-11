@@ -83,12 +83,13 @@
 ABOUT THE PROJECT
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Here is a collection of the most recent time series transformer paper
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Survey
+1. Transformers in Time Series [link](https://arxiv.org/abs/2202.07125)
 
+
+Model
 1. Informer
 2. FEDforemr
 3. Autoformer
@@ -207,13 +208,13 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments
 
 * []()
 * []()
 * []()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
