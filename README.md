@@ -79,14 +79,16 @@
 </details> -->
 
 
+## Time Series Transformer Collection
 
-ABOUT THE PROJECT
-## About The Project
+Here is a collection of the most recent time series transformer paper.
 
-Here is a collection of the most recent time series transformer paper
+Short Summary
+- Traditional statistical method shows promising performance on short-term univariate time series prediction. However, in some field, such as electricity planning, there is a high demand in long sequence and multivariate time prediction. Hence, recently research gradually turns to use deep learning method to provide more accurate prediction. Unlike RNN-based method, which usually suffers from gradient vanishing and slow computation time issue, researcher hope to use the structure from transformer to capture the long range depedencies and generate the precition for long sequence at once.
+
 
 Survey
-1. Transformers in Time Series [link](https://arxiv.org/abs/2202.07125)
+1. Transformers in Time Series [(link)](https://arxiv.org/abs/2202.07125)
 
 
 Model
