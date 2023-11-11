@@ -95,6 +95,8 @@ Here is a collection of the most recent time series transformer paper.
 1. Informer
 2. FEDforemr
 3. Autoformer
+4. Pyraformer
+5. PatchTST
 
 
 <!-- ### Built With
